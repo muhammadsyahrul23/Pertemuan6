@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PER6_SYAHRUL</string>
+    <string name="primary_color">MASUK APLIKASI</string>
+    <string name="button">LOGIN</string>
+    <string name="secondary_color">Counter Service</string>
+    <string name="email_icon">email icon</string>
+</resources>
